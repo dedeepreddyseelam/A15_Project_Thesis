@@ -452,15 +452,14 @@ Bapatla Engineering College
 
 **Connect:**
 - GitHub: [@dedeepreddyseelam](https://github.com/dedeepreddyseelam)
-- Email: [Your College Email]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: dedeepreddyseelam@gmail.com
 
 ---
 
 ## 🙏 Acknowledgements
 
 - **Bapatla Engineering College** - For academic support and resources
-- **Project Guide** - [Guide Name], Department of CSE
+- **Project Guide** - Ms. Ch. Mangamma, Department of CSE
 - **Dr. M. Rajesh Babu** - Head of Department, CSE
 - **MongoDB Atlas** - For database hosting
 - **Razorpay** - For payment gateway services
@@ -471,10 +470,7 @@ Bapatla Engineering College
 ## 📚 Documentation
 
 For detailed documentation, refer to the project thesis:
-- [Project Report PDF](./docs/Project_Report.pdf)
-- [API Documentation](./docs/API_Documentation.md)
-- [Database Schema](./docs/Database_Schema.md)
-- [Deployment Guide](./docs/Deployment_Guide.md)
+- [Project Report PDF](./PocketLancer_Documentation.pdf)
 
 ---
 
@@ -484,7 +480,6 @@ For detailed documentation, refer to the project thesis:
 **Course:** Computer Science and Engineering  
 **Institution:** Bapatla Engineering College  
 **Academic Year:** 2025-2026  
-**Project Duration:** August 2025 - March 2026
 
 ---
 
@@ -498,7 +493,7 @@ For detailed documentation, refer to the project thesis:
 
 For issues and questions:
 - **GitHub Issues:** [Report a bug](https://github.com/dedeepreddyseelam/PocketLancer/issues)
-- **Email:** [Your Email]
+- **Email:** dedeepreddyseelam@gmail.com
 - **Project Website:** [pocketlancer.org](https://pocketlancer.org)
 
 ---
